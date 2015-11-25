@@ -1,3 +1,5 @@
+This fork merges [v3.7.5](https://github.com/facebook/immutable-js/releases/tag/3.7.5) with [updated Record Types](https://github.com/facebook/immutable-js/commit/5001072516a65b1245b528f88556ae4d1e4871fe). This adds the ability to provide factory functions at each key in a record.
+
 Immutable collections for JavaScript
 ====================================
 
